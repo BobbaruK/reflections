@@ -14,3 +14,6 @@ Google Docs does?
 Why do you think some version control systems, like Git, allow saving multiple 
 files in one commit, while others, like Google Docs, treat each file separately?
 	because its safer this way...
+
+How can you use the commands git log and git diff to view the history of files?
+	first use git log to see the logs and the git diff to compare them
