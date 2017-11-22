@@ -13,3 +13,6 @@ logical change?
 4.What are some situations when branches would be helpful in keeping your 
 history organized? How would branches help?
 	like this situation right here with this reflections
+
+5.How do the diagrams help you visualize the branch structure?
+	if you have the diagrams in your mind its ok!
