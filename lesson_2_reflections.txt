@@ -1,15 +1,15 @@
-What happens when you initialize a repository? Why do you need to do it?
+1.What happens when you initialize a repository? Why do you need to do it?
 	add a hidden .git folder to the master dir  and we need it te be a 
 	repository
 
-How is the staging area different from the working directory and the 
+2.How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
 	staging area its like a preview
 
-How can you use the staging area to make sure you have one commit per 
+3.How can you use the staging area to make sure you have one commit per 
 logical change?
 	git status
 
-What are some situations when branches would be helpful in keeping your 
+4.What are some situations when branches would be helpful in keeping your 
 history organized? How would branches help?
 	like this situation right here with this reflections
