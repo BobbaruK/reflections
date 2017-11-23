@@ -19,3 +19,7 @@ remote stored locally?
 5.How would you collaborate without using Git or GitHub? What would be 
 easier, and what would be harder?
 	i dont know. i want to work solo on github anyway...
+
+6.When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+	when i'm working on something experimental or so...
